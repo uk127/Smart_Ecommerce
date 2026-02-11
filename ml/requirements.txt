@@ -11,7 +11,7 @@ spacy==3.6.0
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0.tar.gz
 
 # Image processing and utilities
-rembg==2.0.30
+rembg==2.0.72
 requests==2.31.0
 numpy==1.24.3
 
